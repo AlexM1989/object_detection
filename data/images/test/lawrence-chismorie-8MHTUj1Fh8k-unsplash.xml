@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>lawrence-chismorie-8MHTUj1Fh8k-unsplash.jpg</filename>
+	<path>E:\Stop\test\lawrence-chismorie-8MHTUj1Fh8k-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>427</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>STOP</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>280</xmin>
+			<ymin>49</ymin>
+			<xmax>587</xmax>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+</annotation>
